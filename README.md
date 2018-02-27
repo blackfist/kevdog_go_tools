@@ -1,6 +1,14 @@
 # Kevin's Go Tools
 These are simple utilities Kevin wrote to make his life easier
 
+# Installation
+
+```
+go install github.com/blackfist/kevdog_go_tools
+```
+
+
+# The utilities
 ## random_sample
 Takes a newline separated list from standard input and returns the list in a random 
 order. The option -n option can be applied to select a random subset of what was input.
